@@ -1,2 +1,4 @@
-# ping-sh-95
+# Ping Sh 95
+
 Ping external server address links in Bash.
+
